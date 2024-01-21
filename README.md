@@ -1,9 +1,10 @@
 <h1 align="center">Paypal Phishing(SCAM) Website 
 
 
+...
 ![phishing-page](./phishing_page.png)
 
-...
+
 </h1>
 
 #Backend and frontend of a fake PayPal login page to illustrate the architecture and implementation of a phishing website.
