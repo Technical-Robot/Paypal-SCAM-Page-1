@@ -1,8 +1,8 @@
 <h1 align="center">Paypal Phishing(SCAM) Website </h1>
 Backend and frontend of a fake PayPal login page to illustrate the architecture and implementation of a phishing website.
-<p align="center"
+<h2 align="center"
 ![phishing-page](./phishing_page.png)
-</p>
+</h2>
 <h2 align="center"> MiHRK </h2>
 
 ## Usage
@@ -24,7 +24,7 @@ Backend and frontend of a fake PayPal login page to illustrate the architecture 
 ## Acknowledgement
 <h1 align="center">This Source Code Created by @Technical_Robot </h1>
 
-<<<<<<< HEAD
+<<<<<<<
 ## MiHRK
 =======
->>>>>>> 9b64c7a6395e6a3403f1b7fb572cdda8207bdd92
+>>>>>>
